@@ -10,8 +10,9 @@ Este repositório contém uma coleção de exercícios práticos desenvolvidos e
 
 
 ### Apenas codigos de demonstraçao 
+-Ex: Exercicio1.java apenas as estruturas e logica para a questao
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 
 Feito por Matheus Capuchinho
 📚 Desenvolvido como parte da trilha de formação T1 - Dev Full Stack Júnior, promovida pelas iniciativas +praTi e Codifica.
